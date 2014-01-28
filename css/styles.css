@@ -1,0 +1,10 @@
+.tabs dd {
+	width: 90px;
+}
+
+
+.tabs dd.active a {
+	background: orange;
+	color: white;
+	transition: background .5s;
+}
